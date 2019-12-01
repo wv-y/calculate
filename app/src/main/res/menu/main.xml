@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/conversion"
+    android:title="单位/进制换算"/>
+<item
+    android:id="@+id/money"
+    android:title="汇率换算"/>
+<item
+    android:id="@+id/help"
+    android:title="帮助"/>
+</menu>

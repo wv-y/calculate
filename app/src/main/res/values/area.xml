@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="area">
+        <item>mm^2</item>
+        <item>cm^2</item>
+        <item>dm^2</item>
+        <item>m^2</item>
+        <item>km^2</item>
+    </string-array>
+</resources>
